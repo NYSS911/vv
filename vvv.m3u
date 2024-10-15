@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1"  group-title="中央频道",
+http://123.13.247.144:4000/rtp/225.1.4.1:1030
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1"  group-title="中央频道",
+http://123.13.247.144:4000/rtp/225.1.4.73:1102
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1"  group-title="中央频道",
+http://42.237.176.178:4000/rtp/225.1.4.1:1030
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1"  group-title="中央频道",
+http://42.237.176.178:4000/rtp/225.1.4.73:1102
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2"  group-title="中央频道",
+http://123.13.247.144:4000/rtp/225.1.4.2:1031
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2"  group-title="中央频道",
+http://123.13.247.144:4000/rtp/225.1.4.74:1103
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2"  group-title="中央频道",
+http://42.237.176.178:4000/rtp/225.1.4.2:1031
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2"  group-title="中央频道",
+http://42.237.176.178:4000/rtp/225.1.4.74:1103
+
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3"  group-title="中央频道",
+http://123.13.247.144:4000/rtp/225.1.4.158:1194
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3"  group-title="中央频道",
+http://42.237.176.178:4000/rtp/225.1.4.158:1194
