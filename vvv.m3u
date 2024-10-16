@@ -1,255 +1,976 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://42.237.176.178:4000/rtp/225.1.4.73:1102$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" group-title="央视频道",CCTV2
-http://42.237.176.178:4000/rtp/225.1.4.74:1103$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV3" group-title="央视频道",CCTV3
-http://42.237.176.178:4000/rtp/225.1.4.158:1194$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV4" group-title="央视频道",CCTV4
-http://42.237.176.178:4000/rtp/225.1.5.30:1333$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV4欧洲" group-title="央视频道",CCTV4欧洲
-http://42.237.176.178:4000/rtp/225.1.5.31:1342$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV4美洲" group-title="央视频道",CCTV4美洲
-http://42.237.176.178:4000/rtp/225.1.5.32:1343$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV5" group-title="央视频道",CCTV5
-http://42.237.176.178:4000/rtp/225.1.4.159:1195$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" group-title="央视频道",CCTV5+
-http://42.237.176.178:4000/rtp/225.1.4.75:1104$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV6" group-title="央视频道",CCTV6
-http://42.237.176.178:4000/rtp/225.1.4.160:1196$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV7" group-title="央视频道",CCTV7
-http://42.237.176.178:4000/rtp/225.1.4.76:1105$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV8" group-title="央视频道",CCTV8
-http://42.237.176.178:4000/rtp/225.1.4.161:1197$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV9" group-title="央视频道",CCTV9
-http://42.237.176.178:4000/rtp/225.1.4.77:1106$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV10T" group-title="央视频道",CCTV10T
-http://42.237.176.178:4000/rtp/225.1.4.10:1039$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV11" group-title="央视频道",CCTV11
-http://42.237.176.178:4000/rtp/225.1.4.215:1268$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV12" group-title="央视频道",CCTV12
-http://42.237.176.178:4000/rtp/225.1.4.79:1108$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="22" tvg-name="CCTV13" group-title="央视频道",CCTV13
-http://42.237.176.178:4000/rtp/225.1.4.113:1293$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="24" tvg-name="CCTV14" group-title="央视频道",CCTV14
-http://42.237.176.178:4000/rtp/225.1.4.80:1109$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV15" group-title="央视频道",CCTV15
-http://42.237.176.178:4000/rtp/225.1.4.216:1269$LR•IPV4『线路1』
-
-
-#EXTINF:-1 tvg-id="28" tvg-name="CCTV17" group-title="央视频道",CCTV17
-http://42.237.176.178:4000/rtp/225.1.4.226:2506$LR•IPV4『线路1』
-
-
-#EXTINF:-1 tvg-id="32" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
-http://42.237.176.178:4000/rtp/225.1.4.82:1111$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="34" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
-http://42.237.176.178:4000/rtp/225.1.4.84:1113$LR•IPV4『线路1』
-
-
-#EXTINF:-1 tvg-id="36" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
-http://42.237.176.178:4000/rtp/225.1.4.83:1112$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="38" tvg-name="北京卫视" group-title="地方卫视",北京卫视
-http://42.237.176.178:4000/rtp/225.1.4.81:1110$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="40" tvg-name="东方卫视" group-title="地方卫视",东方卫视
-http://42.237.176.178:4000/rtp/225.1.4.85:1114$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="42" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
-http://42.237.176.178:4000/rtp/225.1.4.87:1116$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="44" tvg-name="广东卫视" group-title="地方卫视",广东卫视
-http://42.237.176.178:4000/rtp/225.1.4.166:1207$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="46" tvg-name="深圳卫视" group-title="地方卫视",深圳卫视
-http://42.237.176.178:4000/rtp/225.1.4.90:1119$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="48" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
-http://42.237.176.178:4000/rtp/225.1.4.167:1208$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="50" tvg-name="海南卫视" group-title="地方卫视",海南卫视
-http://42.237.176.178:4000/rtp/225.1.4.195:1310$LR•IPV4『线路1』
-
-
-#EXTINF:-1 tvg-id="53" tvg-name="山东卫视" group-title="地方卫视",山东卫视
-http://42.237.176.178:4000/rtp/225.1.4.88:1117$LR•IPV4『线路2』
-
-
-#EXTINF:-1 tvg-id="55" tvg-name="天津卫视" group-title="地方卫视",天津卫视
-http://42.237.176.178:4000/rtp/225.1.4.86:1115$LR•IPV4『线路2』
-
-#EXTINF:-1 tvg-id="56" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
-http://42.237.176.178:4000/rtp/225.1.4.157:1308$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="58" tvg-name="东南卫视" group-title="地方卫视",东南卫视
-http://42.237.176.178:4000/rtp/225.1.4.228:1274$LR•IPV4『线路1』
-
-
-#EXTINF:-1 tvg-id="62" tvg-name="贵州卫视" group-title="地方卫视",贵州卫视
-http://42.237.176.178:4000/rtp/225.1.4.122:1302$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="64" tvg-name="河北卫视" group-title="地方卫视",河北卫视
-http://42.237.176.178:4000/rtp/225.1.4.123:1304$LR•IPV4『线路1』
-
-
-#EXTINF:-1 tvg-id="67" tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
-http://42.237.176.178:4000/rtp/225.1.4.91:1120$LR•IPV4『线路2』
-
-#EXTINF:-1 tvg-id="70" tvg-name="河南卫视" group-title="地方卫视",河南卫视
-http://42.237.176.178:4000/rtp/225.1.4.98:1127$LR•IPV4『线路3』
-
-#EXTINF:-1 tvg-id="72" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
-http://42.237.176.178:4000/rtp/225.1.4.89:1118$LR•IPV4『线路2』
-
-#EXTINF:-1 tvg-id="73" tvg-name="江西卫视" group-title="地方卫视",江西卫视
-http://42.237.176.178:4000/rtp/225.1.4.139:1305$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="75" tvg-name="吉林卫视" group-title="地方卫视",吉林卫视
-http://42.237.176.178:4000/rtp/225.1.4.174:1309$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="77" tvg-name="内蒙古卫视T" group-title="地方卫视",内蒙古卫视T
-http://42.237.176.178:4000/rtp/225.1.4.45:1074$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="78" tvg-name="宁夏卫视T" group-title="地方卫视",宁夏卫视T
-http://42.237.176.178:4000/rtp/225.1.4.43:1072$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="79" tvg-name="山西卫视T" group-title="地方卫视",山西卫视T
-http://42.237.176.178:4000/rtp/225.1.4.38:1067$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="80" tvg-name="陕西卫视T" group-title="地方卫视",陕西卫视T
-http://42.237.176.178:4000/rtp/225.1.4.39:1068$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="81" tvg-name="四川卫视" group-title="地方卫视",四川卫视
-http://42.237.176.178:4000/rtp/225.1.4.151:1306$LR•IPV4『线路1』
-
-
-#EXTINF:-1 tvg-id="83" tvg-name="新疆卫视T" group-title="地方卫视",新疆卫视T
-http://42.237.176.178:4000/rtp/225.1.4.47:1076$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="84" tvg-name="云南卫视" group-title="地方卫视",云南卫视
-http://42.237.176.178:4000/rtp/225.1.4.152:1307$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="86" tvg-name="厦门卫视T" group-title="地方卫视",厦门卫视T
-http://42.237.176.178:4000/rtp/225.1.4.95:1124$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="87" tvg-name="青海卫视T" group-title="地方卫视",青海卫视T
-http://42.237.176.178:4000/rtp/225.1.4.44:1073$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="88" tvg-name="西藏卫视T" group-title="地方卫视",西藏卫视T
-http://42.237.176.178:4000/rtp/225.1.4.46:1075$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="89" tvg-name="兵团卫视T" group-title="地方卫视",兵团卫视T
-http://42.237.176.178:4000/rtp/225.1.4.97:1126$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="90" tvg-name="三沙卫视T" group-title="地方卫视",三沙卫视T
-http://42.237.176.178:4000/rtp/225.1.4.234:1280$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="91" tvg-name="家庭影院" group-title="电影频道",家庭影院
-http://42.237.176.178:4000/rtp/225.1.4.209:1262$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="92" tvg-name="动作电影" group-title="电影频道",动作电影
-http://42.237.176.178:4000/rtp/225.1.4.208:1261$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="93" tvg-name="影迷电影" group-title="电影频道",影迷电影
-http://42.237.176.178:4000/rtp/225.1.4.207:1260$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="94" tvg-name="科幻电影T" group-title="电影频道",科幻电影T
-http://42.237.176.178:4000/rtp/225.1.4.6:1035$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="95" tvg-name="经典电影T" group-title="电影频道",经典电影T
-http://42.237.176.178:4000/rtp/225.1.4.175:1233$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="96" tvg-name="金鹰卡通T" group-title="动漫频道",金鹰卡通T
-http://42.237.176.178:4000/rtp/225.1.4.49:1078$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="97" tvg-name="嘉佳卡通T" group-title="动漫频道",嘉佳卡通T
-http://42.237.176.178:4000/rtp/225.1.4.92:1121$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="98" tvg-name="北京卡酷少儿T" group-title="动漫频道",北京卡酷少儿T
-http://42.237.176.178:4000/rtp/225.1.4.48:1077$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="99" tvg-name="河南都市" group-title="河南本地",河南都市
-http://42.237.176.178:4000/rtp/225.1.4.52:1081$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="100" tvg-name="河南民生" group-title="河南本地",河南民生
-http://42.237.176.178:4000/rtp/225.1.4.53:1082$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="101" tvg-name="河南法治" group-title="河南本地",河南法治
-http://42.237.176.178:4000/rtp/225.1.4.54:1083$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="102" tvg-name="河南电视剧" group-title="河南本地",河南电视剧
-http://42.237.176.178:4000/rtp/225.1.4.55:1084$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="103" tvg-name="河南新闻" group-title="河南本地",河南新闻
-http://42.237.176.178:4000/rtp/225.1.4.56:1085$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="104" tvg-name="河南公共" group-title="河南本地",河南公共
-http://42.237.176.178:4000/rtp/225.1.4.58:1087$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="105" tvg-name="河南乡村" group-title="河南本地",河南乡村
-http://42.237.176.178:4000/rtp/225.1.4.120:1149$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="68" tvg-name="4K实验" group-title="河南本地",4K实验
-http://42.237.176.178:4000/rtp/225.1.4.254:1300$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="106" tvg-name="河南戏曲" group-title="河南本地",河南戏曲
-http://42.237.176.178:4000/rtp/225.1.4.99:1128$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="107" tvg-name="IPTV法治T" group-title="其他频道",IPTV法治T
-http://42.237.176.178:4000/rtp/225.1.4.188:1237$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="108" tvg-name="IPTV相声小品T" group-title="其他频道",IPTV相声小品T
-http://42.237.176.178:4000/rtp/225.1.4.186:1235$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="109" tvg-name="IPTV谍战剧场T" group-title="其他频道",IPTV谍战剧场T
-http://42.237.176.178:4000/rtp/225.1.4.185:1240$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="110" tvg-name="IPTV野外T" group-title="其他频道",IPTV野外T
-http://42.237.176.178:4000/rtp/225.1.4.187:1236$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="111" tvg-name="中国教育1" group-title="其他频道",中国教育1
-http://42.237.176.178:4000/rtp/225.1.4.173:1712$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="112" tvg-name="中国教育2T" group-title="其他频道",中国教育2T
-http://42.237.176.178:4000/rtp/225.1.4.165:1206$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="113" tvg-name="中国教育4T" group-title="其他频道",中国教育4T
-http://42.237.176.178:4000/rtp/225.1.4.171:1710$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="114" tvg-name="山东教育T" group-title="其他频道",山东教育T
-http://42.237.176.178:4000/rtp/225.1.4.164:1205$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="115" tvg-name="军事T" group-title="其他频道",军事T
-http://42.237.176.178:4000/rtp/225.1.4.181:1230$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="116" tvg-name="新动漫T" group-title="其他频道",新动漫T
-http://42.237.176.178:4000/rtp/225.1.4.212:1265$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="117" tvg-name="热播剧场T" group-title="其他频道",热播剧场T
-http://42.237.176.178:4000/rtp/225.1.4.190:1239$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="118" tvg-name="爱综艺T" group-title="其他频道",爱综艺T
-http://42.237.176.178:4000/rtp/225.1.4.204:1252$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="119" tvg-name="纪实人文T" group-title="其他频道",纪实人文T
-http://42.237.176.178:4000/rtp/225.1.4.170:1222$LR•IPV4『线路1』
-
+http://182.119.124.195:8888/rtp/239.16.10.1:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://123.11.74.158:4000/rtp/225.1.4.1:1030$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://123.11.74.158:4000/rtp/225.1.4.73:1102$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://42.236.255.213:2000/rtp/225.1.4.1:1030$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://42.236.255.213:2000/rtp/225.1.4.73:1102$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://182.119.124.195:8888/rtp/239.16.10.127:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://123.11.74.158:4000/rtp/225.1.4.2:1031$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://123.11.74.158:4000/rtp/225.1.4.74:1103$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://42.236.255.213:2000/rtp/225.1.4.2:1031$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://42.236.255.213:2000/rtp/225.1.4.74:1103$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://182.119.124.195:8888/rtp/239.16.10.2:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://123.11.74.158:4000/rtp/225.1.4.158:1194$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://42.236.255.213:2000/rtp/225.1.4.158:1194$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://182.119.124.195:8888/rtp/239.16.10.128:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://123.11.74.158:4000/rtp/225.1.5.30:1333$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://123.11.74.158:4000/rtp/225.1.5.31:1342$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://42.236.255.213:2000/rtp/225.1.5.30:1333$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://42.236.255.213:2000/rtp/225.1.5.31:1342$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://182.119.124.195:8888/rtp/239.16.10.132:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://123.11.74.158:4000/rtp/225.1.4.159:1195$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="21" tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://42.236.255.213:2000/rtp/225.1.4.159:1195$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+http://182.119.124.195:8888/rtp/239.16.10.3:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+http://123.11.74.158:4000/rtp/225.1.4.75:1104$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="24" tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+http://42.236.255.213:2000/rtp/225.1.4.75:1104$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="25" tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://182.119.124.195:8888/rtp/239.16.10.101:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://123.11.74.158:4000/rtp/225.1.4.160:1196$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="27" tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://42.236.255.213:2000/rtp/225.1.4.160:1196$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="28" tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://182.119.124.195:8888/rtp/239.16.10.130:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="29" tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://123.11.74.158:4000/rtp/225.1.4.76:1105$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="30" tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://123.11.74.158:4000/rtp/225.1.4.7:1036$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="31" tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://42.236.255.213:2000/rtp/225.1.4.76:1105$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="32" tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://42.236.255.213:2000/rtp/225.1.4.7:1036$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="33" tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://182.119.124.195:8888/rtp/239.16.10.102:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="34" tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://123.11.74.158:4000/rtp/225.1.4.161:1197$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="35" tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://42.236.255.213:2000/rtp/225.1.4.161:1197$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="36" tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://182.119.124.195:8888/rtp/239.16.10.103:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="37" tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://123.11.74.158:4000/rtp/225.1.4.77:1106$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="38" tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://123.11.74.158:4000/rtp/225.1.4.9:1038$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="39" tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://42.236.255.213:2000/rtp/225.1.4.77:1106$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="40" tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://42.236.255.213:2000/rtp/225.1.4.9:1038$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="41" tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://182.119.124.195:8888/rtp/239.16.10.108:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="42" tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://123.11.74.158:4000/rtp/225.1.4.10:1039$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="43" tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://42.236.255.213:2000/rtp/225.1.4.10:1039$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="44" tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://182.119.124.195:8888/rtp/239.16.10.109:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="45" tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://123.11.74.158:4000/rtp/225.1.4.11:1040$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="46" tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://123.11.74.158:4000/rtp/225.1.4.215:1268$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="47" tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://42.236.255.213:2000/rtp/225.1.4.11:1040$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="48" tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://42.236.255.213:2000/rtp/225.1.4.215:1268$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="49" tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://182.119.124.195:8888/rtp/239.16.10.110:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="50" tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://123.11.74.158:4000/rtp/225.1.4.12:1041$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="51" tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://123.11.74.158:4000/rtp/225.1.4.79:1108$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="52" tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://42.236.255.213:2000/rtp/225.1.4.12:1041$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="53" tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://42.236.255.213:2000/rtp/225.1.4.79:1108$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="54" tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://182.119.124.195:8888/rtp/239.16.10.111:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="55" tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://123.11.74.158:4000/rtp/225.1.4.113:1293$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="56" tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://123.11.74.158:4000/rtp/225.1.4.13:1042$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="57" tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://42.236.255.213:2000/rtp/225.1.4.113:1293$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="58" tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://42.236.255.213:2000/rtp/225.1.4.13:1042$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="59" tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://182.119.124.195:8888/rtp/239.16.10.112:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="60" tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://123.11.74.158:4000/rtp/225.1.4.14:1043$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="61" tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://123.11.74.158:4000/rtp/225.1.4.80:1109$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="62" tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://42.236.255.213:2000/rtp/225.1.4.80:1109$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="63" tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://182.119.124.195:8888/rtp/239.16.10.113:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="64" tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://123.11.74.158:4000/rtp/225.1.4.15:1044$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="65" tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://123.11.74.158:4000/rtp/225.1.4.216:1269$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="66" tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://42.236.255.213:2000/rtp/225.1.4.15:1044$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="67" tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://42.236.255.213:2000/rtp/225.1.4.216:1269$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="68" tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://182.119.124.195:8888/rtp/239.16.10.129:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="69" tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://123.11.74.158:4000/rtp/225.1.4.226:2506$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="70" tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://123.11.74.158:4000/rtp/225.1.4.227:2507$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="71" tvg-name="CCTV4美洲" group-title="央视频道",CCTV4美洲
+http://123.11.74.158:4000/rtp/225.1.5.32:1343$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="72" tvg-name="CCTV4美洲" group-title="央视频道",CCTV4美洲
+http://42.236.255.213:2000/rtp/225.1.5.32:1343$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="73" tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
+http://123.11.74.158:4000/rtp/225.1.4.183:1232$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="74" tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
+http://42.236.255.213:2000/rtp/225.1.4.183:1232$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="75" tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
+http://123.11.74.158:4000/rtp/225.1.4.180:1229$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="76" tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
+http://42.236.255.213:2000/rtp/225.1.4.180:1229$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="77" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
+http://182.119.124.195:8888/rtp/239.16.10.6:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="78" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
+http://123.11.74.158:4000/rtp/225.1.4.17:1046$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="79" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
+http://123.11.74.158:4000/rtp/225.1.4.82:1111$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="80" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
+http://42.236.255.213:2000/rtp/225.1.4.17:1046$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
+http://42.236.255.213:2000/rtp/225.1.4.82:1111$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="82" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
+http://182.119.124.195:8888/rtp/239.16.10.5:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="83" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
+http://123.11.74.158:4000/rtp/225.1.4.19:1048$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="84" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
+http://123.11.74.158:4000/rtp/225.1.4.84:1113$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="85" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
+http://42.236.255.213:2000/rtp/225.1.4.19:1048$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="86" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视
+http://42.236.255.213:2000/rtp/225.1.4.84:1113$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="87" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+http://1.196.154.238:2000/rtp/239.16.10.8:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="88" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+http://182.119.124.195:8888/rtp/239.16.10.8:2000$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="89" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+http://123.11.74.158:4000/rtp/225.1.4.18:1047$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="90" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+http://123.11.74.158:4000/rtp/225.1.4.83:1112$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+http://42.236.255.213:2000/rtp/225.1.4.18:1047$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="92" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视
+http://42.236.255.213:2000/rtp/225.1.4.83:1112$LR•IPV4『线路6』
+
+#EXTINF:-1 tvg-id="93" tvg-name="北京卫视" group-title="地方卫视",北京卫视
+http://182.119.124.195:8888/rtp/239.16.10.10:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="94" tvg-name="北京卫视" group-title="地方卫视",北京卫视
+http://123.11.74.158:4000/rtp/225.1.4.21:1050$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="95" tvg-name="北京卫视" group-title="地方卫视",北京卫视
+http://123.11.74.158:4000/rtp/225.1.4.81:1110$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="96" tvg-name="东方卫视" group-title="地方卫视",东方卫视
+http://182.119.124.195:8888/rtp/239.16.10.7:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="97" tvg-name="东方卫视" group-title="地方卫视",东方卫视
+http://123.11.74.158:4000/rtp/225.1.4.22:1051$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="98" tvg-name="东方卫视" group-title="地方卫视",东方卫视
+http://123.11.74.158:4000/rtp/225.1.4.85:1114$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="99" tvg-name="东方卫视" group-title="地方卫视",东方卫视
+http://42.236.255.213:2000/rtp/225.1.4.22:1051$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="100" tvg-name="东方卫视" group-title="地方卫视",东方卫视
+http://42.236.255.213:2000/rtp/225.1.4.85:1114$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="101" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
+http://182.119.124.195:8888/rtp/239.16.10.9:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="102" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
+http://123.11.74.158:4000/rtp/225.1.4.20:1049$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="103" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
+http://123.11.74.158:4000/rtp/225.1.4.87:1116$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="104" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
+http://42.236.255.213:2000/rtp/225.1.4.20:1049$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="105" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视
+http://42.236.255.213:2000/rtp/225.1.4.87:1116$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="106" tvg-name="广东卫视" group-title="地方卫视",广东卫视
+http://182.119.124.195:8888/rtp/239.16.10.104:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="107" tvg-name="广东卫视" group-title="地方卫视",广东卫视
+http://123.11.74.158:4000/rtp/225.1.4.166:1207$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="108" tvg-name="广东卫视" group-title="地方卫视",广东卫视
+http://123.11.74.158:4000/rtp/225.1.4.30:1059$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="109" tvg-name="广东卫视" group-title="地方卫视",广东卫视
+http://42.236.255.213:2000/rtp/225.1.4.30:1059$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="110" tvg-name="深圳卫视" group-title="地方卫视",深圳卫视
+http://182.119.124.195:8888/rtp/239.16.10.11:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="111" tvg-name="深圳卫视" group-title="地方卫视",深圳卫视
+http://123.11.74.158:4000/rtp/225.1.4.23:1052$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="112" tvg-name="深圳卫视" group-title="地方卫视",深圳卫视
+http://123.11.74.158:4000/rtp/225.1.4.90:1119$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="113" tvg-name="深圳卫视" group-title="地方卫视",深圳卫视
+http://42.236.255.213:2000/rtp/225.1.4.23:1052$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="114" tvg-name="深圳卫视" group-title="地方卫视",深圳卫视
+http://42.236.255.213:2000/rtp/225.1.4.90:1119$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="115" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
+http://182.119.124.195:8888/rtp/239.16.10.29:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="116" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
+http://123.11.74.158:4000/rtp/225.1.4.167:1208$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="117" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
+http://123.11.74.158:4000/rtp/225.1.4.26:1055$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="118" tvg-name="辽宁卫视" group-title="地方卫视",辽宁卫视
+http://42.236.255.213:2000/rtp/225.1.4.167:1208$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="119" tvg-name="海南卫视" group-title="地方卫视",海南卫视
+http://1.196.154.238:2000/rtp/239.16.10.43:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="120" tvg-name="海南卫视" group-title="地方卫视",海南卫视
+http://182.119.124.195:8888/rtp/239.16.10.43:2000$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="121" tvg-name="海南卫视" group-title="地方卫视",海南卫视
+http://123.11.74.158:4000/rtp/225.1.4.195:1310$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="122" tvg-name="海南卫视" group-title="地方卫视",海南卫视
+http://123.11.74.158:4000/rtp/225.1.4.25:1054$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="123" tvg-name="海南卫视" group-title="地方卫视",海南卫视
+http://42.236.255.213:2000/rtp/225.1.4.195:1310$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="124" tvg-name="海南卫视" group-title="地方卫视",海南卫视
+http://42.236.255.213:2000/rtp/225.1.4.25:1054$LR•IPV4『线路6』
+
+#EXTINF:-1 tvg-id="125" tvg-name="山东卫视" group-title="地方卫视",山东卫视
+http://182.119.124.195:8888/rtp/239.16.10.14:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="126" tvg-name="山东卫视" group-title="地方卫视",山东卫视
+http://123.11.74.158:4000/rtp/225.1.4.27:1056$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="127" tvg-name="山东卫视" group-title="地方卫视",山东卫视
+http://123.11.74.158:4000/rtp/225.1.4.88:1117$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="128" tvg-name="山东卫视" group-title="地方卫视",山东卫视
+http://42.236.255.213:2000/rtp/225.1.4.27:1056$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="129" tvg-name="山东卫视" group-title="地方卫视",山东卫视
+http://42.236.255.213:2000/rtp/225.1.4.88:1117$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="130" tvg-name="天津卫视" group-title="地方卫视",天津卫视
+http://182.119.124.195:8888/rtp/239.16.10.30:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="131" tvg-name="天津卫视" group-title="地方卫视",天津卫视
+http://123.11.74.158:4000/rtp/225.1.4.24:1053$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="132" tvg-name="天津卫视" group-title="地方卫视",天津卫视
+http://123.11.74.158:4000/rtp/225.1.4.86:1115$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="133" tvg-name="天津卫视" group-title="地方卫视",天津卫视
+http://42.236.255.213:2000/rtp/225.1.4.24:1053$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="134" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
+http://182.119.124.195:8888/rtp/239.16.10.13:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="135" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
+http://123.11.74.158:4000/rtp/225.1.4.157:1308$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="136" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
+http://123.11.74.158:4000/rtp/225.1.4.29:1058$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="137" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
+http://42.236.255.213:2000/rtp/225.1.4.157:1308$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="138" tvg-name="重庆卫视" group-title="地方卫视",重庆卫视
+http://42.236.255.213:2000/rtp/225.1.4.29:1058$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="139" tvg-name="东南卫视" group-title="地方卫视",东南卫视
+http://182.119.124.195:8888/rtp/239.16.10.16:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="140" tvg-name="东南卫视" group-title="地方卫视",东南卫视
+http://123.11.74.158:4000/rtp/225.1.4.228:1274$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="141" tvg-name="东南卫视" group-title="地方卫视",东南卫视
+http://123.11.74.158:4000/rtp/225.1.4.32:1061$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="142" tvg-name="东南卫视" group-title="地方卫视",东南卫视
+http://42.236.255.213:2000/rtp/225.1.4.228:1274$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="143" tvg-name="东南卫视" group-title="地方卫视",东南卫视
+http://42.236.255.213:2000/rtp/225.1.4.32:1061$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="144" tvg-name="甘肃卫视" group-title="地方卫视",甘肃卫视
+http://182.119.124.195:8888/rtp/239.16.10.114:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="145" tvg-name="甘肃卫视" group-title="地方卫视",甘肃卫视
+http://123.11.74.158:4000/rtp/225.1.4.42:1071$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="146" tvg-name="甘肃卫视" group-title="地方卫视",甘肃卫视
+http://42.236.255.213:2000/rtp/225.1.4.42:1071$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="147" tvg-name="广西卫视" group-title="地方卫视",广西卫视
+http://182.119.124.195:8888/rtp/239.16.10.18:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="148" tvg-name="广西卫视" group-title="地方卫视",广西卫视
+http://123.11.74.158:4000/rtp/225.1.4.31:1060$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="149" tvg-name="广西卫视" group-title="地方卫视",广西卫视
+http://42.236.255.213:2000/rtp/225.1.4.31:1060$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="150" tvg-name="贵州卫视" group-title="地方卫视",贵州卫视
+http://182.119.124.195:8888/rtp/239.16.10.15:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="151" tvg-name="贵州卫视" group-title="地方卫视",贵州卫视
+http://123.11.74.158:4000/rtp/225.1.4.122:1302$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="152" tvg-name="贵州卫视" group-title="地方卫视",贵州卫视
+http://123.11.74.158:4000/rtp/225.1.4.41:1070$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="153" tvg-name="贵州卫视" group-title="地方卫视",贵州卫视
+http://42.236.255.213:2000/rtp/225.1.4.122:1302$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="154" tvg-name="贵州卫视" group-title="地方卫视",贵州卫视
+http://42.236.255.213:2000/rtp/225.1.4.41:1070$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="155" tvg-name="河北卫视" group-title="地方卫视",河北卫视
+http://182.119.124.195:8888/rtp/239.16.10.22:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="156" tvg-name="河北卫视" group-title="地方卫视",河北卫视
+http://123.11.74.158:4000/rtp/225.1.4.123:1304$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="157" tvg-name="河北卫视" group-title="地方卫视",河北卫视
+http://123.11.74.158:4000/rtp/225.1.4.34:1063$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="158" tvg-name="河北卫视" group-title="地方卫视",河北卫视
+http://42.236.255.213:2000/rtp/225.1.4.123:1304$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="159" tvg-name="河北卫视" group-title="地方卫视",河北卫视
+http://42.236.255.213:2000/rtp/225.1.4.34:1063$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="160" tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
+http://182.119.124.195:8888/rtp/239.16.10.105:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="161" tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
+http://123.11.74.158:4000/rtp/225.1.4.28:1057$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="162" tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
+http://123.11.74.158:4000/rtp/225.1.4.91:1120$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="163" tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
+http://42.236.255.213:2000/rtp/225.1.4.28:1057$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="164" tvg-name="黑龙江卫视" group-title="地方卫视",黑龙江卫视
+http://42.236.255.213:2000/rtp/225.1.4.91:1120$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="165" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://182.119.124.195:8888/rtp/239.16.10.119:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="166" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://123.11.74.158:4000/rtp/225.1.4.254:1300$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="167" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://123.11.74.158:4000/rtp/225.1.4.51:1080$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="168" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://123.11.74.158:4000/rtp/225.1.4.98:1127$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="169" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://42.236.255.213:2000/rtp/225.1.4.254:1300$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="170" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://42.236.255.213:2000/rtp/225.1.4.51:1080$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="171" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://42.236.255.213:2000/rtp/225.1.4.98:1127$LR•IPV4『线路7』
+
+#EXTINF:-1 tvg-id="172" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
+http://182.119.124.195:8888/rtp/239.16.10.21:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="173" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
+http://123.11.74.158:4000/rtp/225.1.4.35:1064$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="174" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
+http://123.11.74.158:4000/rtp/225.1.4.89:1118$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="175" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视
+http://42.236.255.213:2000/rtp/225.1.4.89:1118$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="176" tvg-name="江西卫视" group-title="地方卫视",江西卫视
+http://182.119.124.195:8888/rtp/239.16.10.23:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="177" tvg-name="江西卫视" group-title="地方卫视",江西卫视
+http://123.11.74.158:4000/rtp/225.1.4.139:1305$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="178" tvg-name="江西卫视" group-title="地方卫视",江西卫视
+http://123.11.74.158:4000/rtp/225.1.4.37:1066$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="179" tvg-name="江西卫视" group-title="地方卫视",江西卫视
+http://42.236.255.213:2000/rtp/225.1.4.139:1305$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="180" tvg-name="江西卫视" group-title="地方卫视",江西卫视
+http://42.236.255.213:2000/rtp/225.1.4.37:1066$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="181" tvg-name="吉林卫视" group-title="地方卫视",吉林卫视
+http://182.119.124.195:8888/rtp/239.16.10.28:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="182" tvg-name="吉林卫视" group-title="地方卫视",吉林卫视
+http://123.11.74.158:4000/rtp/225.1.4.174:1309$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="183" tvg-name="吉林卫视" group-title="地方卫视",吉林卫视
+http://123.11.74.158:4000/rtp/225.1.4.36:1065$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="184" tvg-name="吉林卫视" group-title="地方卫视",吉林卫视
+http://42.236.255.213:2000/rtp/225.1.4.36:1065$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="185" tvg-name="内蒙古卫视" group-title="地方卫视",内蒙古卫视
+http://182.119.124.195:8888/rtp/239.16.10.25:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="186" tvg-name="内蒙古卫视" group-title="地方卫视",内蒙古卫视
+http://123.11.74.158:4000/rtp/225.1.4.45:1074$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="187" tvg-name="内蒙古卫视" group-title="地方卫视",内蒙古卫视
+http://42.236.255.213:2000/rtp/225.1.4.45:1074$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="188" tvg-name="宁夏卫视" group-title="地方卫视",宁夏卫视
+http://182.119.124.195:8888/rtp/239.16.10.26:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="189" tvg-name="宁夏卫视" group-title="地方卫视",宁夏卫视
+http://123.11.74.158:4000/rtp/225.1.4.43:1072$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="190" tvg-name="宁夏卫视" group-title="地方卫视",宁夏卫视
+http://42.236.255.213:2000/rtp/225.1.4.43:1072$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="191" tvg-name="山西卫视" group-title="地方卫视",山西卫视
+http://182.119.124.195:8888/rtp/239.16.10.24:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="192" tvg-name="山西卫视" group-title="地方卫视",山西卫视
+http://123.11.74.158:4000/rtp/225.1.4.38:1067$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="193" tvg-name="山西卫视" group-title="地方卫视",山西卫视
+http://42.236.255.213:2000/rtp/225.1.4.38:1067$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="194" tvg-name="陕西卫视" group-title="地方卫视",陕西卫视
+http://182.119.124.195:8888/rtp/239.16.10.17:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="195" tvg-name="陕西卫视" group-title="地方卫视",陕西卫视
+http://123.11.74.158:4000/rtp/225.1.4.39:1068$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="196" tvg-name="陕西卫视" group-title="地方卫视",陕西卫视
+http://42.236.255.213:2000/rtp/225.1.4.39:1068$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="197" tvg-name="四川卫视" group-title="地方卫视",四川卫视
+http://182.119.124.195:8888/rtp/239.16.10.20:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="198" tvg-name="四川卫视" group-title="地方卫视",四川卫视
+http://123.11.74.158:4000/rtp/225.1.4.151:1306$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="199" tvg-name="四川卫视" group-title="地方卫视",四川卫视
+http://123.11.74.158:4000/rtp/225.1.4.40:1069$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="200" tvg-name="四川卫视" group-title="地方卫视",四川卫视
+http://42.236.255.213:2000/rtp/225.1.4.151:1306$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="201" tvg-name="四川卫视" group-title="地方卫视",四川卫视
+http://42.236.255.213:2000/rtp/225.1.4.40:1069$LR•IPV4『线路5』
+
+#EXTINF:-1 tvg-id="202" tvg-name="新疆卫视" group-title="地方卫视",新疆卫视
+http://182.119.124.195:8888/rtp/239.16.10.27:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="203" tvg-name="新疆卫视" group-title="地方卫视",新疆卫视
+http://123.11.74.158:4000/rtp/225.1.4.47:1076$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="204" tvg-name="新疆卫视" group-title="地方卫视",新疆卫视
+http://42.236.255.213:2000/rtp/225.1.4.47:1076$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="205" tvg-name="云南卫视" group-title="地方卫视",云南卫视
+http://182.119.124.195:8888/rtp/239.16.10.19:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="206" tvg-name="云南卫视" group-title="地方卫视",云南卫视
+http://123.11.74.158:4000/rtp/225.1.4.152:1307$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="207" tvg-name="云南卫视" group-title="地方卫视",云南卫视
+http://123.11.74.158:4000/rtp/225.1.4.33:1062$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="208" tvg-name="云南卫视" group-title="地方卫视",云南卫视
+http://42.236.255.213:2000/rtp/225.1.4.152:1307$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="209" tvg-name="青海卫视" group-title="地方卫视",青海卫视
+http://182.119.124.195:8888/rtp/239.16.10.107:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="210" tvg-name="青海卫视" group-title="地方卫视",青海卫视
+http://123.11.74.158:4000/rtp/225.1.4.44:1073$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="211" tvg-name="西藏卫视" group-title="地方卫视",西藏卫视
+http://182.119.124.195:8888/rtp/239.16.10.106:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="212" tvg-name="西藏卫视" group-title="地方卫视",西藏卫视
+http://123.11.74.158:4000/rtp/225.1.4.46:1075$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="213" tvg-name="西藏卫视" group-title="地方卫视",西藏卫视
+http://42.236.255.213:2000/rtp/225.1.4.46:1075$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="214" tvg-name="厦门卫视" group-title="地方卫视",厦门卫视
+http://123.11.74.158:4000/rtp/225.1.4.95:1124$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="215" tvg-name="厦门卫视" group-title="地方卫视",厦门卫视
+http://42.236.255.213:2000/rtp/225.1.4.95:1124$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="216" tvg-name="兵团卫视" group-title="地方卫视",兵团卫视
+http://123.11.74.158:4000/rtp/225.1.4.97:1126$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="217" tvg-name="兵团卫视" group-title="地方卫视",兵团卫视
+http://42.236.255.213:2000/rtp/225.1.4.97:1126$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="218" tvg-name="三沙卫视" group-title="地方卫视",三沙卫视
+http://123.11.74.158:4000/rtp/225.1.4.234:1280$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="219" tvg-name="三沙卫视" group-title="地方卫视",三沙卫视
+http://42.236.255.213:2000/rtp/225.1.4.234:1280$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="220" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://182.119.124.195:8888/rtp/239.16.10.119:2000$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="221" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://123.11.74.158:4000/rtp/225.1.4.254:1300$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="222" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://123.11.74.158:4000/rtp/225.1.4.51:1080$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="223" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://123.11.74.158:4000/rtp/225.1.4.98:1127$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="224" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://42.236.255.213:2000/rtp/225.1.4.254:1300$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="225" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://42.236.255.213:2000/rtp/225.1.4.51:1080$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="226" tvg-name="河南卫视" group-title="地方卫视",河南卫视
+http://42.236.255.213:2000/rtp/225.1.4.98:1127$LR•IPV4『线路14』
+
+#EXTINF:-1 tvg-id="227" tvg-name="河南都市" group-title="河南本地",河南都市
+http://182.119.124.195:8888/rtp/239.16.10.120:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="228" tvg-name="河南都市" group-title="河南本地",河南都市
+http://123.11.74.158:4000/rtp/225.1.4.52:1081$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="229" tvg-name="河南都市" group-title="河南本地",河南都市
+http://42.236.255.213:2000/rtp/225.1.4.52:1081$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="230" tvg-name="河南民生" group-title="河南本地",河南民生
+http://182.119.124.195:8888/rtp/239.16.10.121:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="231" tvg-name="河南民生" group-title="河南本地",河南民生
+http://123.11.74.158:4000/rtp/225.1.4.53:1082$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="232" tvg-name="河南民生" group-title="河南本地",河南民生
+http://42.236.255.213:2000/rtp/225.1.4.53:1082$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="233" tvg-name="河南法治" group-title="河南本地",河南法治
+http://1.196.154.238:2000/rtp/239.16.10.122:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="234" tvg-name="河南法治" group-title="河南本地",河南法治
+http://182.119.124.195:8888/rtp/239.16.10.122:2000$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="235" tvg-name="河南法治" group-title="河南本地",河南法治
+http://123.11.74.158:4000/rtp/225.1.4.54:1083$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="236" tvg-name="河南法治" group-title="河南本地",河南法治
+http://42.236.255.213:2000/rtp/225.1.4.54:1083$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="237" tvg-name="河南电视剧" group-title="河南本地",河南电视剧
+http://182.119.124.195:8888/rtp/239.16.10.123:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="238" tvg-name="河南电视剧" group-title="河南本地",河南电视剧
+http://123.11.74.158:4000/rtp/225.1.4.55:1084$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="239" tvg-name="河南电视剧" group-title="河南本地",河南电视剧
+http://42.236.255.213:2000/rtp/225.1.4.55:1084$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="240" tvg-name="河南新闻" group-title="河南本地",河南新闻
+http://182.119.124.195:8888/rtp/239.16.10.124:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="241" tvg-name="河南新闻" group-title="河南本地",河南新闻
+http://123.11.74.158:4000/rtp/225.1.4.56:1085$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="242" tvg-name="河南新闻" group-title="河南本地",河南新闻
+http://42.236.255.213:2000/rtp/225.1.4.56:1085$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="243" tvg-name="河南公共" group-title="河南本地",河南公共
+http://182.119.124.195:8888/rtp/239.16.10.126:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="244" tvg-name="河南公共" group-title="河南本地",河南公共
+http://123.11.74.158:4000/rtp/225.1.4.58:1087$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="245" tvg-name="河南公共" group-title="河南本地",河南公共
+http://42.236.255.213:2000/rtp/225.1.4.58:1087$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="246" tvg-name="河南乡村" group-title="河南本地",河南乡村
+http://182.119.124.195:8888/rtp/239.16.10.181:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="247" tvg-name="河南乡村" group-title="河南本地",河南乡村
+http://123.11.74.158:4000/rtp/225.1.4.120:1149$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="248" tvg-name="河南乡村" group-title="河南本地",河南乡村
+http://42.236.255.213:2000/rtp/225.1.4.120:1149$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="249" tvg-name="河南国际" group-title="河南本地",河南国际
+http://182.119.124.195:8888/rtp/239.16.10.182:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="250" tvg-name="河南文博" group-title="河南本地",河南文博
+http://182.119.124.195:8888/rtp/239.16.10.149:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="251" tvg-name="河南文博" group-title="河南本地",河南文博
+http://123.11.74.158:4000/rtp/225.1.4.100:1129$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="252" tvg-name="河南文博" group-title="河南本地",河南文博
+http://42.236.255.213:2000/rtp/225.1.4.100:1129$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="253" tvg-name="河南功夫" group-title="河南本地",河南功夫
+http://182.119.124.195:8888/rtp/239.16.10.150:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="254" tvg-name="河南功夫" group-title="河南本地",河南功夫
+http://123.11.74.158:4000/rtp/225.1.4.101:1130$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="255" tvg-name="河南功夫" group-title="河南本地",河南功夫
+http://42.236.255.213:2000/rtp/225.1.4.101:1130$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="256" tvg-name="河南戏曲" group-title="河南本地",河南戏曲
+http://182.119.124.195:8888/rtp/239.16.10.148:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="257" tvg-name="河南戏曲" group-title="河南本地",河南戏曲
+http://123.11.74.158:4000/rtp/225.1.4.99:1128$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="258" tvg-name="河南戏曲" group-title="河南本地",河南戏曲
+http://42.236.255.213:2000/rtp/225.1.4.99:1128$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="259" tvg-name="河南移动" group-title="河南本地",河南移动
+http://182.119.124.195:8888/rtp/239.16.10.76:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="260" tvg-name="河南移动" group-title="河南本地",河南移动
+http://182.119.124.195:8888/rtp/239.16.10.79:2000$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="261" tvg-name="河南移动" group-title="河南本地",河南移动
+http://123.11.74.158:4000/rtp/225.1.5.40:1350$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="262" tvg-name="河南移动" group-title="河南本地",河南移动
+http://42.236.255.213:2000/rtp/225.1.5.40:1350$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="263" tvg-name="河南4K实验" group-title="河南本地",河南4K实验
+http://182.119.124.195:8888/rtp/239.16.10.210:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="264" tvg-name="河南IPTV导视" group-title="河南本地",河南IPTV导视
+http://1.196.154.238:2000/rtp/239.16.10.218:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="265" tvg-name="河南IPTV导视" group-title="河南本地",河南IPTV导视
+http://182.119.124.195:8888/rtp/239.16.10.218:2000$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="266" tvg-name="河南购物" group-title="河南本地",河南购物
+http://123.11.74.158:4000/rtp/225.1.4.57:1086$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="267" tvg-name="河南购物" group-title="河南本地",河南购物
+http://42.236.255.213:2000/rtp/225.1.4.57:1086$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="268" tvg-name="河南导视" group-title="河南本地",河南导视
+http://123.11.74.158:4000/rtp/225.1.4.194:1244$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="269" tvg-name="河南导视" group-title="河南本地",河南导视
+http://42.236.255.213:2000/rtp/225.1.4.194:1244$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="270" tvg-name="郑州新闻" group-title="河南本地",郑州新闻
+http://182.119.124.195:8888/rtp/239.16.10.154:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="271" tvg-name="郑州新闻" group-title="河南本地",郑州新闻
+http://42.236.255.213:2000/rtp/225.1.4.140:1176$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="272" tvg-name="郑州新闻" group-title="河南本地",郑州新闻
+http://42.236.255.213:2000/rtp/225.1.4.143:1179$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="273" tvg-name="郑州商都" group-title="河南本地",郑州商都
+http://182.119.124.195:8888/rtp/239.16.10.155:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="274" tvg-name="郑州商都" group-title="河南本地",郑州商都
+http://42.236.255.213:2000/rtp/225.1.4.144:1180$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="275" tvg-name="郑州文旅" group-title="河南本地",郑州文旅
+http://1.196.154.238:2000/rtp/239.16.10.156:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="276" tvg-name="郑州文旅" group-title="河南本地",郑州文旅
+http://182.119.124.195:8888/rtp/239.16.10.156:2000$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="277" tvg-name="郑州文旅" group-title="河南本地",郑州文旅
+http://42.236.255.213:2000/rtp/225.1.4.142:1178$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="278" tvg-name="郑州文旅" group-title="河南本地",郑州文旅
+http://42.236.255.213:2000/rtp/225.1.4.145:1181$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="279" tvg-name="郑州影视" group-title="电影频道",郑州影视
+http://182.119.124.195:8888/rtp/239.16.10.157:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="280" tvg-name="郑州影视" group-title="电影频道",郑州影视
+http://42.236.255.213:2000/rtp/225.1.4.146:1182$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="281" tvg-name="郑州妇女" group-title="河南本地",郑州妇女
+http://42.236.255.213:2000/rtp/225.1.4.147:1183$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="282" tvg-name="郑州都市" group-title="河南本地",郑州都市
+http://42.236.255.213:2000/rtp/225.1.4.149:1185$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="283" tvg-name="郑州教育" group-title="河南本地",郑州教育
+http://42.236.255.213:2000/rtp/225.1.4.191:1241$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="284" tvg-name="睛彩中原" group-title="河南本地",睛彩中原
+http://182.119.124.195:8888/rtp/239.16.10.78:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="285" tvg-name="睛彩中原" group-title="河南本地",睛彩中原
+http://123.11.74.158:4000/rtp/225.1.4.163:1203$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="286" tvg-name="睛彩中原" group-title="河南本地",睛彩中原
+http://42.236.255.213:2000/rtp/225.1.4.163:1203$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="287" tvg-name="健康中原" group-title="河南本地",健康中原
+http://182.119.124.195:8888/rtp/239.16.10.131:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="288" tvg-name="健康中原" group-title="河南本地",健康中原
+http://123.11.74.158:4000/rtp/225.1.5.48:1358$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="289" tvg-name="健康中原" group-title="河南本地",健康中原
+http://42.236.255.213:2000/rtp/225.1.5.48:1358$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="290" tvg-name="郑州影视" group-title="电影频道",郑州影视
+http://182.119.124.195:8888/rtp/239.16.10.157:2000$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="291" tvg-name="郑州影视" group-title="电影频道",郑州影视
+http://42.236.255.213:2000/rtp/225.1.4.146:1182$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="292" tvg-name="家庭影院" group-title="电影频道",家庭影院
+http://123.11.74.158:4000/rtp/225.1.4.209:1262$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="293" tvg-name="家庭影院" group-title="电影频道",家庭影院
+http://42.236.255.213:2000/rtp/225.1.4.209:1262$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="294" tvg-name="动作电影" group-title="电影频道",动作电影
+http://123.11.74.158:4000/rtp/225.1.4.208:1261$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="295" tvg-name="动作电影" group-title="电影频道",动作电影
+http://42.236.255.213:2000/rtp/225.1.4.208:1261$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="296" tvg-name="影迷电影" group-title="电影频道",影迷电影
+http://123.11.74.158:4000/rtp/225.1.4.207:1260$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="297" tvg-name="影迷电影" group-title="电影频道",影迷电影
+http://42.236.255.213:2000/rtp/225.1.4.207:1260$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="298" tvg-name="科幻电影" group-title="电影频道",科幻电影
+http://123.11.74.158:4000/rtp/225.1.4.6:1035$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="299" tvg-name="科幻电影" group-title="电影频道",科幻电影
+http://42.236.255.213:2000/rtp/225.1.4.6:1035$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="300" tvg-name="经典电影" group-title="电影频道",经典电影
+http://123.11.74.158:4000/rtp/225.1.4.175:1233$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="301" tvg-name="经典电影" group-title="电影频道",经典电影
+http://42.236.255.213:2000/rtp/225.1.4.175:1233$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="302" tvg-name="SiTV动漫秀场" group-title="其他频道",SiTV动漫秀场
+http://182.119.124.195:8888/rtp/239.16.10.234:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="303" tvg-name="新动漫" group-title="其他频道",新动漫
+http://123.11.74.158:4000/rtp/225.1.4.212:1265$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="304" tvg-name="新动漫" group-title="其他频道",新动漫
+http://42.236.255.213:2000/rtp/225.1.4.212:1265$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="305" tvg-name="金鹰卡通" group-title="动漫频道",金鹰卡通
+http://182.119.124.195:8888/rtp/239.16.10.115:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="306" tvg-name="金鹰卡通" group-title="动漫频道",金鹰卡通
+http://123.11.74.158:4000/rtp/225.1.4.49:1078$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="307" tvg-name="金鹰卡通" group-title="动漫频道",金鹰卡通
+http://42.236.255.213:2000/rtp/225.1.4.49:1078$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="308" tvg-name="嘉佳卡通" group-title="动漫频道",嘉佳卡通
+http://123.11.74.158:4000/rtp/225.1.4.92:1121$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="309" tvg-name="嘉佳卡通" group-title="动漫频道",嘉佳卡通
+http://42.236.255.213:2000/rtp/225.1.4.92:1121$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="310" tvg-name="北京卡酷少儿" group-title="动漫频道",北京卡酷少儿
+http://123.11.74.158:4000/rtp/225.1.4.48:1077$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="311" tvg-name="北京卡酷少儿" group-title="动漫频道",北京卡酷少儿
+http://42.236.255.213:2000/rtp/225.1.4.48:1077$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="312" tvg-name="生活时尚" group-title="其他频道",生活时尚
+http://182.119.124.195:8888/rtp/239.16.10.243:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="313" tvg-name="国学频道" group-title="其他频道",国学频道
+http://182.119.124.195:8888/rtp/239.16.10.217:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="314" tvg-name="国学频道" group-title="其他频道",国学频道
+http://123.11.74.158:4000/rtp/225.1.4.178:1227$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="315" tvg-name="国学频道" group-title="其他频道",国学频道
+http://123.11.74.158:4000/rtp/225.1.4.196:1311$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="316" tvg-name="国学频道" group-title="其他频道",国学频道
+http://42.236.255.213:2000/rtp/225.1.4.196:1311$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="317" tvg-name="茶频道" group-title="其他频道",茶频道
+http://182.119.124.195:8888/rtp/239.16.10.237:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="318" tvg-name="快乐垂钓" group-title="其他频道",快乐垂钓
+http://182.119.124.195:8888/rtp/239.16.10.236:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="319" tvg-name="游戏风云" group-title="其他频道",游戏风云
+http://182.119.124.195:8888/rtp/239.16.10.241:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="320" tvg-name="中国教育1" group-title="其他频道",中国教育1
+http://182.119.124.195:8888/rtp/239.16.10.12:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="321" tvg-name="中国教育1" group-title="其他频道",中国教育1
+http://123.11.74.158:4000/rtp/225.1.4.173:1712$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="322" tvg-name="中国教育1" group-title="其他频道",中国教育1
+http://42.236.255.213:2000/rtp/225.1.4.173:1712$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="323" tvg-name="东方财经" group-title="其他频道",东方财经
+http://182.119.124.195:8888/rtp/239.16.10.235:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="324" tvg-name="欢腾购物" group-title="其他频道",欢腾购物
+http://182.119.124.195:8888/rtp/239.16.10.125:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="325" tvg-name="欢腾购物" group-title="其他频道",欢腾购物
+http://182.119.124.195:8888/rtp/239.16.10.216:2000$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="326" tvg-name="欢腾购物" group-title="其他频道",欢腾购物
+http://123.11.74.158:4000/rtp/225.1.4.236:1282$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="327" tvg-name="欢腾购物" group-title="其他频道",欢腾购物
+http://42.236.255.213:2000/rtp/225.1.4.236:1282$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="328" tvg-name="SiTV乐游" group-title="其他频道",SiTV乐游
+http://182.119.124.195:8888/rtp/239.16.10.240:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="329" tvg-name="SiTV都市剧场" group-title="其他频道",SiTV都市剧场
+http://182.119.124.195:8888/rtp/239.16.10.232:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="330" tvg-name="SiTV金色学堂" group-title="其他频道",SiTV金色学堂
+http://182.119.124.195:8888/rtp/239.16.10.244:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="331" tvg-name="SiTV魅力足球" group-title="其他频道",SiTV魅力足球
+http://182.119.124.195:8888/rtp/239.16.10.242:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="332" tvg-name="大象新闻" group-title="其他频道",大象新闻
+http://182.119.124.195:8888/rtp/239.16.10.192:2000$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="333" tvg-name="百姓调解" group-title="其他频道",百姓调解
+http://1.196.154.238:2000/rtp/239.16.10.183:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="334" tvg-name="百姓调解" group-title="其他频道",百姓调解
+http://182.119.124.195:8888/rtp/239.16.10.183:2000$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="335" tvg-name="纪实人文" group-title="其他频道",纪实人文
+http://182.119.124.195:8888/rtp/239.16.10.190:2000$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="336" tvg-name="纪实人文" group-title="其他频道",纪实人文
+http://123.11.74.158:4000/rtp/225.1.4.170:1222$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="337" tvg-name="纪实人文" group-title="其他频道",纪实人文
+http://42.236.255.213:2000/rtp/225.1.4.170:1222$LR•IPV4『线路3』
+
+#EXTINF:-1 tvg-id="338" tvg-name="先锋乒羽" group-title="其他频道",先锋乒羽
+http://123.11.74.158:4000/rtp/225.1.4.210:1263$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="339" tvg-name="先锋乒羽" group-title="其他频道",先锋乒羽
+http://42.236.255.213:2000/rtp/225.1.4.210:1263$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="340" tvg-name="动感音乐" group-title="其他频道",动感音乐
+http://123.11.74.158:4000/rtp/225.1.4.184:1224$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="341" tvg-name="动感音乐" group-title="其他频道",动感音乐
+http://42.236.255.213:2000/rtp/225.1.4.184:1224$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="342" tvg-name="弈坛春秋" group-title="其他频道",弈坛春秋
+http://123.11.74.158:4000/rtp/225.1.4.230:1276$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="343" tvg-name="弈坛春秋" group-title="其他频道",弈坛春秋
+http://42.236.255.213:2000/rtp/225.1.4.230:1276$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="344" tvg-name="中国教育2" group-title="其他频道",中国教育2
+http://123.11.74.158:4000/rtp/225.1.4.165:1206$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="345" tvg-name="中国教育2" group-title="其他频道",中国教育2
+http://42.236.255.213:2000/rtp/225.1.4.165:1206$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="346" tvg-name="中国教育4" group-title="其他频道",中国教育4
+http://123.11.74.158:4000/rtp/225.1.4.171:1710$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="347" tvg-name="中国教育4" group-title="其他频道",中国教育4
+http://42.236.255.213:2000/rtp/225.1.4.171:1710$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="348" tvg-name="CGTN" group-title="其他频道",CGTN
+http://123.11.74.158:4000/rtp/225.1.4.16:1045$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="349" tvg-name="CGTN" group-title="其他频道",CGTN
+http://123.11.74.158:4000/rtp/225.1.5.34:1344$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="350" tvg-name="CGTN" group-title="其他频道",CGTN
+http://123.11.74.158:4000/rtp/225.1.5.35:1345$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="351" tvg-name="CGTN" group-title="其他频道",CGTN
+http://42.236.255.213:2000/rtp/225.1.4.16:1045$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="352" tvg-name="CGTN" group-title="其他频道",CGTN
+http://42.236.255.213:2000/rtp/225.1.5.34:1344$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="353" tvg-name="CGTN" group-title="其他频道",CGTN
+http://42.236.255.213:2000/rtp/225.1.5.35:1345$LR•IPV4『线路6』
+
+#EXTINF:-1 tvg-id="354" tvg-name="CGTN法语" group-title="其他频道",CGTN法语
+http://123.11.74.158:4000/rtp/225.1.5.37:1347$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="355" tvg-name="CGTN法语" group-title="其他频道",CGTN法语
+http://42.236.255.213:2000/rtp/225.1.5.37:1347$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="356" tvg-name="CGTN俄语" group-title="其他频道",CGTN俄语
+http://123.11.74.158:4000/rtp/225.1.5.39:1349$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="357" tvg-name="CGTN阿语" group-title="其他频道",CGTN阿语
+http://123.11.74.158:4000/rtp/225.1.5.38:1348$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="358" tvg-name="CGTN西语" group-title="其他频道",CGTN西语
+http://123.11.74.158:4000/rtp/225.1.5.36:1346$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="359" tvg-name="CGTN西语" group-title="其他频道",CGTN西语
+http://42.236.255.213:2000/rtp/225.1.5.36:1346$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="360" tvg-name="山东教育" group-title="其他频道",山东教育
+http://123.11.74.158:4000/rtp/225.1.4.164:1205$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="361" tvg-name="新郑综合" group-title="其他频道",新郑综合
+http://42.236.255.213:2000/rtp/225.1.4.243:1289$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="362" tvg-name="中牟综合" group-title="其他频道",中牟综合
+http://42.236.255.213:2000/rtp/225.1.4.244:1290$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="363" tvg-name="巩义综合" group-title="其他频道",巩义综合
+http://42.236.255.213:2000/rtp/225.1.5.50:1360$LR•IPV4『线路1』
+
+#EXTINF:-1 tvg-id="364" tvg-name="移动戏曲" group-title="其他频道",移动戏曲
+http://123.11.74.158:4000/rtp/225.1.4.206:1254$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="365" tvg-name="移动戏曲" group-title="其他频道",移动戏曲
+http://42.236.255.213:2000/rtp/225.1.4.206:1254$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="366" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
+http://123.11.74.158:4000/rtp/225.1.4.172:1711$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="367" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
+http://42.236.255.213:2000/rtp/225.1.4.172:1711$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="368" tvg-name="IPTV法治" group-title="其他频道",IPTV法治
+http://123.11.74.158:4000/rtp/225.1.4.188:1237$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="369" tvg-name="IPTV法治" group-title="其他频道",IPTV法治
+http://42.236.255.213:2000/rtp/225.1.4.188:1237$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="370" tvg-name="IPTV相声小品" group-title="其他频道",IPTV相声小品
+http://123.11.74.158:4000/rtp/225.1.4.186:1235$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="371" tvg-name="IPTV相声小品" group-title="其他频道",IPTV相声小品
+http://42.236.255.213:2000/rtp/225.1.4.186:1235$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="372" tvg-name="IPTV谍战剧场" group-title="其他频道",IPTV谍战剧场
+http://123.11.74.158:4000/rtp/225.1.4.185:1240$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="373" tvg-name="IPTV谍战剧场" group-title="其他频道",IPTV谍战剧场
+http://42.236.255.213:2000/rtp/225.1.4.185:1240$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="374" tvg-name="IPTV野外" group-title="其他频道",IPTV野外
+http://123.11.74.158:4000/rtp/225.1.4.187:1236$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="375" tvg-name="IPTV野外" group-title="其他频道",IPTV野外
+http://42.236.255.213:2000/rtp/225.1.4.187:1236$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="376" tvg-name="军事" group-title="其他频道",军事
+http://123.11.74.158:4000/rtp/225.1.4.181:1230$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="377" tvg-name="军事" group-title="其他频道",军事
+http://42.236.255.213:2000/rtp/225.1.4.181:1230$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="378" tvg-name="好享购物" group-title="其他频道",好享购物
+http://123.11.74.158:4000/rtp/225.1.4.232:1278$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="379" tvg-name="好享购物" group-title="其他频道",好享购物
+http://42.236.255.213:2000/rtp/225.1.4.232:1278$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="380" tvg-name="好学生" group-title="其他频道",好学生
+http://123.11.74.158:4000/rtp/225.1.4.177:1226$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="381" tvg-name="好学生" group-title="其他频道",好学生
+http://42.236.255.213:2000/rtp/225.1.4.177:1226$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="382" tvg-name="家有购物" group-title="其他频道",家有购物
+http://123.11.74.158:4000/rtp/225.1.4.223:1273$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="383" tvg-name="家有购物" group-title="其他频道",家有购物
+http://42.236.255.213:2000/rtp/225.1.4.223:1273$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="384" tvg-name="快乐购" group-title="其他频道",快乐购
+http://123.11.74.158:4000/rtp/225.1.4.231:1277$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="385" tvg-name="快乐购" group-title="其他频道",快乐购
+http://42.236.255.213:2000/rtp/225.1.4.231:1277$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="386" tvg-name="收视指南" group-title="其他频道",收视指南
+http://123.11.74.158:4000/rtp/225.1.4.50:1079$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="387" tvg-name="收视指南" group-title="其他频道",收视指南
+http://42.236.255.213:2000/rtp/225.1.4.50:1079$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="388" tvg-name="早教" group-title="其他频道",早教
+http://123.11.74.158:4000/rtp/225.1.4.179:1228$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="389" tvg-name="早教" group-title="其他频道",早教
+http://42.236.255.213:2000/rtp/225.1.4.179:1228$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="390" tvg-name="热播剧场" group-title="其他频道",热播剧场
+http://123.11.74.158:4000/rtp/225.1.4.190:1239$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="391" tvg-name="热播剧场" group-title="其他频道",热播剧场
+http://42.236.255.213:2000/rtp/225.1.4.190:1239$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="392" tvg-name="爱上4K" group-title="其他频道",爱上4K
+http://123.11.74.158:4000/rtp/225.1.4.162:1204$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="393" tvg-name="爱上4K" group-title="其他频道",爱上4K
+http://42.236.255.213:2000/rtp/225.1.4.162:1204$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="394" tvg-name="爱体育" group-title="其他频道",爱体育
+http://123.11.74.158:4000/rtp/225.1.4.168:1220$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="395" tvg-name="爱体育" group-title="其他频道",爱体育
+http://123.11.74.158:4000/rtp/225.1.4.5:1034$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="396" tvg-name="爱体育" group-title="其他频道",爱体育
+http://42.236.255.213:2000/rtp/225.1.4.168:1220$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="397" tvg-name="爱体育" group-title="其他频道",爱体育
+http://42.236.255.213:2000/rtp/225.1.4.5:1034$LR•IPV4『线路4』
+
+#EXTINF:-1 tvg-id="398" tvg-name="爱大剧" group-title="其他频道",爱大剧
+http://123.11.74.158:4000/rtp/225.1.4.8:1037$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="399" tvg-name="爱大剧" group-title="其他频道",爱大剧
+http://42.236.255.213:2000/rtp/225.1.4.8:1037$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="400" tvg-name="爱生活" group-title="其他频道",爱生活
+http://123.11.74.158:4000/rtp/225.1.4.176:1225$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="401" tvg-name="爱生活" group-title="其他频道",爱生活
+http://42.236.255.213:2000/rtp/225.1.4.176:1225$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="402" tvg-name="爱综艺" group-title="其他频道",爱综艺
+http://123.11.74.158:4000/rtp/225.1.4.204:1252$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="403" tvg-name="爱综艺" group-title="其他频道",爱综艺
+http://42.236.255.213:2000/rtp/225.1.4.204:1252$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="404" tvg-name="精选" group-title="其他频道",精选
+http://123.11.74.158:4000/rtp/225.1.4.253:1299$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="405" tvg-name="精选" group-title="其他频道",精选
+http://42.236.255.213:2000/rtp/225.1.4.253:1299$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="406" tvg-name="美妆" group-title="其他频道",美妆
+http://123.11.74.158:4000/rtp/225.1.4.182:1231$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="407" tvg-name="美妆" group-title="其他频道",美妆
+http://42.236.255.213:2000/rtp/225.1.4.182:1231$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="408" tvg-name="聚鲨环球精选" group-title="其他频道",聚鲨环球精选
+http://123.11.74.158:4000/rtp/225.1.4.229:1275$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="409" tvg-name="聚鲨环球精选" group-title="其他频道",聚鲨环球精选
+http://42.236.255.213:2000/rtp/225.1.4.229:1275$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="410" tvg-name="足球" group-title="其他频道",足球
+http://123.11.74.158:4000/rtp/225.1.4.200:1250$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="411" tvg-name="足球" group-title="其他频道",足球
+http://42.236.255.213:2000/rtp/225.1.4.200:1250$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="412" tvg-name="风尚购物" group-title="其他频道",风尚购物
+http://123.11.74.158:4000/rtp/225.1.4.233:1279$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="413" tvg-name="风尚购物" group-title="其他频道",风尚购物
+http://42.236.255.213:2000/rtp/225.1.4.233:1279$LR•IPV4『线路2』
+
+#EXTINF:-1 tvg-id="414" tvg-name="魅力时尚" group-title="其他频道",魅力时尚
+http://123.11.74.158:4000/rtp/225.1.4.205:1253$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="415" tvg-name="魅力时尚" group-title="其他频道",魅力时尚
+http://42.236.255.213:2000/rtp/225.1.4.205:1253$LR•IPV4『线路2』
