@@ -156,21 +156,6 @@ http://123.11.74.158:4000/rtp/225.1.4.226:2506$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="70" tvg-name="CCTV17" group-title="央视频道",CCTV17
 http://123.11.74.158:4000/rtp/225.1.4.227:2507$LR•IPV4『线路3』
 
-#EXTINF:-1 tvg-id="71" tvg-name="CCTV4美洲" group-title="央视频道",CCTV4美洲
-http://123.11.74.158:4000/rtp/225.1.5.32:1343$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="72" tvg-name="CCTV4美洲" group-title="央视频道",CCTV4美洲
-http://42.236.255.213:2000/rtp/225.1.5.32:1343$LR•IPV4『线路2』
-
-#EXTINF:-1 tvg-id="73" tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
-http://123.11.74.158:4000/rtp/225.1.4.183:1232$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="74" tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
-http://42.236.255.213:2000/rtp/225.1.4.183:1232$LR•IPV4『线路2』
-
-#EXTINF:-1 tvg-id="75" tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
-http://123.11.74.158:4000/rtp/225.1.4.180:1229$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="76" tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
-http://42.236.255.213:2000/rtp/225.1.4.180:1229$LR•IPV4『线路2』
-
 #EXTINF:-1 tvg-id="77" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
 http://182.119.124.195:8888/rtp/239.16.10.6:2000$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="78" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视
@@ -575,39 +560,10 @@ http://123.11.74.158:4000/rtp/225.1.4.101:1130$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="255" tvg-name="河南功夫" group-title="河南本地",河南功夫
 http://42.236.255.213:2000/rtp/225.1.4.101:1130$LR•IPV4『线路3』
 
-#EXTINF:-1 tvg-id="256" tvg-name="河南戏曲" group-title="河南本地",河南戏曲
-http://182.119.124.195:8888/rtp/239.16.10.148:2000$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="257" tvg-name="河南戏曲" group-title="河南本地",河南戏曲
-http://123.11.74.158:4000/rtp/225.1.4.99:1128$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="258" tvg-name="河南戏曲" group-title="河南本地",河南戏曲
-http://42.236.255.213:2000/rtp/225.1.4.99:1128$LR•IPV4『线路3』
-
-#EXTINF:-1 tvg-id="259" tvg-name="河南移动" group-title="河南本地",河南移动
-http://182.119.124.195:8888/rtp/239.16.10.76:2000$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="260" tvg-name="河南移动" group-title="河南本地",河南移动
-http://182.119.124.195:8888/rtp/239.16.10.79:2000$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="261" tvg-name="河南移动" group-title="河南本地",河南移动
-http://123.11.74.158:4000/rtp/225.1.5.40:1350$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="262" tvg-name="河南移动" group-title="河南本地",河南移动
-http://42.236.255.213:2000/rtp/225.1.5.40:1350$LR•IPV4『线路4』
 
 #EXTINF:-1 tvg-id="263" tvg-name="河南4K实验" group-title="河南本地",河南4K实验
 http://182.119.124.195:8888/rtp/239.16.10.210:2000$LR•IPV4『线路1』
 
-#EXTINF:-1 tvg-id="264" tvg-name="河南IPTV导视" group-title="河南本地",河南IPTV导视
-http://1.196.154.238:2000/rtp/239.16.10.218:2000$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="265" tvg-name="河南IPTV导视" group-title="河南本地",河南IPTV导视
-http://182.119.124.195:8888/rtp/239.16.10.218:2000$LR•IPV4『线路2』
-
-#EXTINF:-1 tvg-id="266" tvg-name="河南购物" group-title="河南本地",河南购物
-http://123.11.74.158:4000/rtp/225.1.4.57:1086$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="267" tvg-name="河南购物" group-title="河南本地",河南购物
-http://42.236.255.213:2000/rtp/225.1.4.57:1086$LR•IPV4『线路2』
-
-#EXTINF:-1 tvg-id="268" tvg-name="河南导视" group-title="河南本地",河南导视
-http://123.11.74.158:4000/rtp/225.1.4.194:1244$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="269" tvg-name="河南导视" group-title="河南本地",河南导视
-http://42.236.255.213:2000/rtp/225.1.4.194:1244$LR•IPV4『线路2』
 
 #EXTINF:-1 tvg-id="270" tvg-name="郑州新闻" group-title="河南本地",郑州新闻
 http://182.119.124.195:8888/rtp/239.16.10.154:2000$LR•IPV4『线路1』
@@ -630,10 +586,6 @@ http://42.236.255.213:2000/rtp/225.1.4.142:1178$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="278" tvg-name="郑州文旅" group-title="河南本地",郑州文旅
 http://42.236.255.213:2000/rtp/225.1.4.145:1181$LR•IPV4『线路4』
 
-#EXTINF:-1 tvg-id="279" tvg-name="郑州影视" group-title="电影频道",郑州影视
-http://182.119.124.195:8888/rtp/239.16.10.157:2000$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="280" tvg-name="郑州影视" group-title="电影频道",郑州影视
-http://42.236.255.213:2000/rtp/225.1.4.146:1182$LR•IPV4『线路2』
 
 #EXTINF:-1 tvg-id="281" tvg-name="郑州妇女" group-title="河南本地",郑州妇女
 http://42.236.255.213:2000/rtp/225.1.4.147:1183$LR•IPV4『线路1』
@@ -643,21 +595,6 @@ http://42.236.255.213:2000/rtp/225.1.4.149:1185$LR•IPV4『线路1』
 
 #EXTINF:-1 tvg-id="283" tvg-name="郑州教育" group-title="河南本地",郑州教育
 http://42.236.255.213:2000/rtp/225.1.4.191:1241$LR•IPV4『线路1』
-
-#EXTINF:-1 tvg-id="284" tvg-name="睛彩中原" group-title="河南本地",睛彩中原
-http://182.119.124.195:8888/rtp/239.16.10.78:2000$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="285" tvg-name="睛彩中原" group-title="河南本地",睛彩中原
-http://123.11.74.158:4000/rtp/225.1.4.163:1203$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="286" tvg-name="睛彩中原" group-title="河南本地",睛彩中原
-http://42.236.255.213:2000/rtp/225.1.4.163:1203$LR•IPV4『线路3』
-
-#EXTINF:-1 tvg-id="287" tvg-name="健康中原" group-title="河南本地",健康中原
-http://182.119.124.195:8888/rtp/239.16.10.131:2000$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="288" tvg-name="健康中原" group-title="河南本地",健康中原
-http://123.11.74.158:4000/rtp/225.1.5.48:1358$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="289" tvg-name="健康中原" group-title="河南本地",健康中原
-http://42.236.255.213:2000/rtp/225.1.5.48:1358$LR•IPV4『线路3』
-
 
 
 
